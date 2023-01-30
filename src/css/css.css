@@ -1,0 +1,8 @@
+@font-face {
+    font-family: spo;
+    src: url('../font/GothamRounded-Medium.otf');
+}
+
+body{
+    font-family: spo;
+}
